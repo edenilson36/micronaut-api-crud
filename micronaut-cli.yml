@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: sv.edu.udb
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [app-name, data, data-jpa, h2, http-client-test, jackson-databind, java, java-application, jdbc-hikari, junit, logback, lombok, maven, maven-enforcer-plugin, micronaut-aot, micronaut-http-validation, netty-server, properties, readme, shade, static-resources, validation]
